@@ -15,6 +15,14 @@ Este é um simples jogo de Jokenpo (Pedra, Papel, Tesoura) desenvolvido usando H
 - O resultado é mostrado na tela (Vitória, Derrota ou Empate).
 - Contagem de pontos para o jogador e o computador.
 
+  
+
+  
+
+
+https://github.com/user-attachments/assets/aea94bd2-7ca2-4266-8041-f633055259f4
+
+
 ## Tecnologias Utilizadas
 
 - **HTML:** Para a estrutura do jogo.
